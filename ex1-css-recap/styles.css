@@ -1,3 +1,5 @@
+
+
 .flex {
     display: flex;
     flex-direction: column;
@@ -45,58 +47,66 @@ a {
 
 .box1 {
     background-color: green;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
-    justify-self: center;
+    
 }
 
 .box2 {
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box3 {
     background-color: blue;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box4 {
     background-color: rgb(80, 65, 65);
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box5 {
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box6 {
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box7 {
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
 .box8 {
     background-color: brown;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 30vh;
+    width: 30vh;
     margin: 20px;
 }
 
