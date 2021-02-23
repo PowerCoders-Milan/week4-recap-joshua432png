@@ -26,10 +26,9 @@ span {
     padding: 10px;
     font-size: larger;
     border-radius: 20px;
-    margin: 10px;
-    justify-content: center;
-    align-items: center;
+    border: none;
 }
+
 a {
     text-decoration: none;
     color: white;
@@ -40,9 +39,9 @@ a {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    min-height: 100vh;
-    grid-gap: 10px;
-    background-color: grey;
+    height: 100vh;
+    grid-gap: 5px;
+    background-color: rgb(218, 202, 202);
 }
 
 .box1 {
@@ -152,4 +151,11 @@ img {
     width: 15vh;
     height: 15vh;
     border-radius: 20px;
+}
+.button {
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+    margin-top: 40px;
+    margin-left: 10px;
 }
